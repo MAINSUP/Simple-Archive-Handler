@@ -110,7 +110,7 @@ def open_win_h1():
                   Help Topics:
                   1. Quick task on Main Window:
                   1.1 Extract archive
-                  Supported formats: TAR, RAR, ZIP
+                  Supported formats: TAR, RAR, ZIP, 7Z
                   Note: In order to extract RAR type archive, a correct path to UnRAR.exe file should be added to the code. 
                   To run the task, the source files and an output folder should be selected.
 
